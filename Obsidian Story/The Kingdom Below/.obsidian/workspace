@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "424c9267d5809d3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "096f843bbd108325",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c129570a7ef8dfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "243f9a2e0fb5f9f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cce50b22f1f4b562",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4980e8fbf2e5e79d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8528030de7dc1da1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8b5cd341760d6f3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "84efa2e015e2bdd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c850ba7a0f3e2092",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6b70758bbc50394",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f503c3c5d868ed18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b7075996e8b01be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "8b7075996e8b01be",
+  "lastOpenFiles": [
+    "2022-09-09.md",
+    "Arcstones.md",
+    "The Kingdom.md",
+    "The Rebellion.md",
+    "Common Waters.md"
+  ]
+}
