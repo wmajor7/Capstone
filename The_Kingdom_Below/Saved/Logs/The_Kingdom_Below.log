@@ -2320,3 +2320,152 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.10.05-22.27.25:321][961]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9133D01_1720417033
 [2022.10.05-22.27.25:334][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
 [2022.10.05-22.27.25:425][965]LogViewport: Scene viewport resized to 691x580, mode Windowed.
+[2022.10.05-22.34.05:263][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.10.05-22.34.05:266][167]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap_2' took 0.015
+[2022.10.05-22.34.05:267][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_E1E6162D] ([1] browsable assets)...
+[2022.10.05-22.34.05:320][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/ariji/Box_E1E6162D.Box_E1E6162D]
+[2022.10.05-22.34.05:320][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_E1E6162D]
+[2022.10.05-22.34.05:327][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_E1E6162D_Auto2
+[2022.10.05-22.34.05:327][167]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Box_E1E6162D_Auto236CE449242F6BB598D7D45928B19041E.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_E1E6162D_Auto2.uasset'
+[2022.10.05-22.34.05:330][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_A180405C] ([1] browsable assets)...
+[2022.10.05-22.34.05:345][167]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_A180405C.Cylinder_A180405C]
+[2022.10.05-22.34.05:345][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_A180405C]
+[2022.10.05-22.34.05:350][167]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_A180405C_Auto2
+[2022.10.05-22.34.05:351][167]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Cylinder_A180405C_Auto26C46E4B54B77DA040B504083DC4AD6FF.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_A180405C_Auto2.uasset'
+[2022.10.05-22.34.05:353][167]LogFileHelpers: Auto-saving content packages took 0.087
+[2022.10.05-22.39.52:166][389]LogViewport: Scene viewport resized to 1398x1272, mode Windowed.
+[2022.10.05-22.44.24:169][772]LogStaticMesh: Display: Building static mesh Cylinder_D803FF3A...
+[2022.10.05-22.44.24:169][772]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_D803FF3A.Cylinder_D803FF3A
+[2022.10.05-22.44.24:169][772]LogMeshUtilities: Finished distance field build in 1.2s - 84x84x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 73% occupied, 10 triangles, Cylinder_D803FF3A
+[2022.10.05-22.44.25:743][851]LogMeshUtilities: Finished distance field build in 1.6s - 84x84x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 73% occupied, 10 triangles, Cylinder_D803FF3A
+[2022.10.05-22.44.28:518][955]LogStaticMesh: Display: Building static mesh Cylinder_B0A4F2AE...
+[2022.10.05-22.44.28:518][955]LogStaticMesh: Built static mesh [0.01s] /Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_B0A4F2AE.Cylinder_B0A4F2AE
+[2022.10.05-22.44.28:518][955]LogMeshUtilities: Finished distance field build in 1.2s - 84x84x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 73% occupied, 10 triangles, Cylinder_B0A4F2AE
+[2022.10.05-22.44.30:086][ 22]LogMeshUtilities: Finished distance field build in 1.6s - 84x84x126 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 73% occupied, 10 triangles, Cylinder_B0A4F2AE
+[2022.10.05-22.44.37:275][414]LogStaticMesh: Display: Building static mesh Box_2BDE8E70...
+[2022.10.05-22.44.37:275][414]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/ariji/Box_2BDE8E70.Box_2BDE8E70
+[2022.10.05-22.44.38:329][466]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x21 sparse distance field, 0.6Mb total, 0.0Mb always loaded, 100% occupied, 4 triangles, Box_2BDE8E70
+[2022.10.05-22.45.35:742][979]LogStaticMesh: Display: Building static mesh Box_FF06A9DB...
+[2022.10.05-22.45.35:742][979]LogStaticMesh: Built static mesh [0.00s] /Game/ThirdPerson/Maps/_GENERATED/ariji/Box_FF06A9DB.Box_FF06A9DB
+[2022.10.05-22.45.35:742][979]LogMeshUtilities: Finished distance field build in 2.0s - 126x126x105 sparse distance field, 1.7Mb total, 0.0Mb always loaded, 56% occupied, 4 triangles, Box_FF06A9DB
+[2022.10.05-22.45.38:290][ 82]LogMeshUtilities: Finished distance field build in 2.5s - 126x126x105 sparse distance field, 1.7Mb total, 0.0Mb always loaded, 56% occupied, 4 triangles, Box_FF06A9DB
+[2022.10.05-22.46.08:074][938]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.10.05-22.46.08:108][938]LogWorldPartition: Display: GenerateStreaming started...
+[2022.10.05-22.46.08:108][938]LogWorldPartition: Display: GetPartitionedActors started...
+[2022.10.05-22.46.08:108][938]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.05-22.46.08:108][938]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2022.10.05-22.46.08:108][938]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2022.10.05-22.46.08:109][938]LogWorldPartition: Display: GetPartitionedActors took 106 us
+[2022.10.05-22.46.08:109][938]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2022.10.05-22.46.08:116][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.05-22.46.08:131][938]PIE: New page: PIE session: ThirdPersonMap_2 (Oct 5, 2022, 2:46:08 PM)
+[2022.10.05-22.46.08:136][938]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap_2
+[2022.10.05-22.46.08:191][938]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2022.10.05-22.46.08:194][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056466s)
+[2022.10.05-22.46.08:194][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2 to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap_2.ThirdPersonMap_2 (0.057915s)
+[2022.10.05-22.46.08:211][938]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.05-22.46.08:223][938]LogAIModule: Creating AISystem for world ThirdPersonMap_2
+[2022.10.05-22.46.08:240][938]LogWorldPartition: Display: WorldPartition initialize started...
+[2022.10.05-22.46.08:241][938]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2022.10.05-22.46.08:244][938]LogWorldPartition: Display: WorldPartition initialize took 3 ms
+[2022.10.05-22.46.08:245][938]LogPlayLevel: PIE: World Init took: (0.050469s)
+[2022.10.05-22.46.08:257][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.10.05-22.46.08:263][938]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.10.05-22.46.08:266][938]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.05-22.46.08:266][938]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.05-22.46.08:266][938]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.05-22.46.08:267][938]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.05-22.46.08:267][938]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.05-22.46.08:267][938]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.05-22.46.08:267][938]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.05-22.46.08:267][938]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.05-22.46.08:273][938]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.05-22.46.08:273][938]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.05-22.46.08:273][938]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.05-22.46.08:357][938]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.05-22.46.08:425][938]LogAudioMixer: Display: Using Audio Hardware Device Focusrite USB (2- Focusrite USB Audio)
+[2022.10.05-22.46.08:430][938]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.05-22.46.08:430][938]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.05-22.46.08:431][938]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.05-22.46.08:436][938]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.10.05-22.46.08:436][938]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.10.05-22.46.08:442][938]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.10.05-22.46.08:442][938]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.10.05-22.46.08:442][938]LogInit: FAudioDevice initialized.
+[2022.10.05-22.46.08:443][938]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonMap_2'.
+[2022.10.05-22.46.08:538][938]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2022.10.05-22.46.08:551][938]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap_2.ThirdPersonMap_2 up for play (max tick rate 0) at 2022.10.05-18.46.08
+[2022.10.05-22.46.08:554][938]LogWorld: Bringing up level for play took: 0.013394
+[2022.10.05-22.46.08:572][938]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2022.10.05-22.46.08:704][938]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=900.000 Y=1110.000 Z=92.013
+[2022.10.05-22.46.08:704][938]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2022.10.05-22.46.08:714][938]PIE: Server logged in
+[2022.10.05-22.46.08:720][938]PIE: Play in editor total start time 0.621 seconds.
+[2022.10.05-22.46.52:671][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-22.46.52:671][191]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap_2
+[2022.10.05-22.46.52:676][191]LogWorld: UWorld::CleanupWorld for ThirdPersonMap_2, bSessionEnded=true, bCleanupResources=true
+[2022.10.05-22.46.52:683][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-22.46.52:713][191]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.05-22.46.52:717][191]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.05-22.46.52:730][191]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.05-22.46.52:732][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.05-22.46.52:736][191]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.10.05-22.46.52:746][191]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.05-22.46.52:765][191]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2022.10.05-22.46.52:867][192]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.05-22.46.54:773][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/1/LH/UPZLCE3W66KOJM82MFQELO
+[2022.10.05-22.46.54:775][309]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/UPZLCE3W66KOJM82MFQELO850DFA924401FCD86FFF62B220D9374D.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/1/LH/UPZLCE3W66KOJM82MFQELO.uasset'
+[2022.10.05-22.46.54:781][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/1R/4YD4XFZ5EEAO1R887AJ856
+[2022.10.05-22.46.54:781][309]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/4YD4XFZ5EEAO1R887AJ85624F15A7A4120CFA2466697BEAE670B58.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/E/1R/4YD4XFZ5EEAO1R887AJ856.uasset'
+[2022.10.05-22.46.54:787][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/FX/0BNXB93FO67A01T1OBYO58
+[2022.10.05-22.46.54:787][309]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/0BNXB93FO67A01T1OBYO589EB2F2B54A44F10003E078B2991D20CD.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/5/FX/0BNXB93FO67A01T1OBYO58.uasset'
+[2022.10.05-22.46.54:792][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/UC/OS4YW4R1PRT0K35N0FAH4K
+[2022.10.05-22.46.54:792][309]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/OS4YW4R1PRT0K35N0FAH4K7D341990431BEEB42A95259856E9E7F6.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/D/UC/OS4YW4R1PRT0K35N0FAH4K.uasset'
+[2022.10.05-22.46.54:798][309]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/5X/IYLILWV53KVX8LX997VQHK
+[2022.10.05-22.46.54:798][309]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/IYLILWV53KVX8LX997VQHK6B23B0E64A12D7DE2C588D8F2F9A4380.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/B/5X/IYLILWV53KVX8LX997VQHK.uasset'
+[2022.10.05-22.46.54:816][309]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-22.46.54:816][309]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9D93B01_1920814656
+[2022.10.05-22.46.54:816][309]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9143D01_2036135223
+[2022.10.05-22.46.54:816][309]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9143D01_1978855222
+[2022.10.05-22.46.54:817][309]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9143D01_1969716221
+[2022.10.05-22.46.54:817][309]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9143D01_1965334220
+[2022.10.05-22.46.55:487][353]LogViewport: Scene viewport resized to 691x580, mode Windowed.
+[2022.10.05-22.47.19:954][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.10.05-22.47.19:957][480]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap_2' took 0.019
+[2022.10.05-22.47.19:958][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_D803FF3A] ([1] browsable assets)...
+[2022.10.05-22.47.19:991][480]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_D803FF3A.Cylinder_D803FF3A]
+[2022.10.05-22.47.19:991][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_D803FF3A]
+[2022.10.05-22.47.19:996][480]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_D803FF3A_Auto3
+[2022.10.05-22.47.19:996][480]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Cylinder_D803FF3A_Auto3355AF82A40CC1206173ED69BAAEE8844.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_D803FF3A_Auto3.uasset'
+[2022.10.05-22.47.19:999][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_B0A4F2AE] ([1] browsable assets)...
+[2022.10.05-22.47.20:014][480]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_B0A4F2AE.Cylinder_B0A4F2AE]
+[2022.10.05-22.47.20:014][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_B0A4F2AE]
+[2022.10.05-22.47.20:018][480]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_B0A4F2AE_Auto3
+[2022.10.05-22.47.20:018][480]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Cylinder_B0A4F2AE_Auto3707657EE4A2EDEF98B299DBF1CF5FE9C.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Cylinder_B0A4F2AE_Auto3.uasset'
+[2022.10.05-22.47.20:021][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_2BDE8E70] ([1] browsable assets)...
+[2022.10.05-22.47.20:036][480]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/ariji/Box_2BDE8E70.Box_2BDE8E70]
+[2022.10.05-22.47.20:036][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_2BDE8E70]
+[2022.10.05-22.47.20:039][480]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_2BDE8E70_Auto3
+[2022.10.05-22.47.20:041][480]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Box_2BDE8E70_Auto3B86D2D5843F639D5440C62AE95C64EF4.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_2BDE8E70_Auto3.uasset'
+[2022.10.05-22.47.20:044][480]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_FF06A9DB] ([1] browsable assets)...
+[2022.10.05-22.47.20:057][480]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/ThirdPerson/Maps/_GENERATED/ariji/Box_FF06A9DB.Box_FF06A9DB]
+[2022.10.05-22.47.20:057][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_FF06A9DB]
+[2022.10.05-22.47.20:062][480]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_FF06A9DB_Auto3
+[2022.10.05-22.47.20:063][480]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Box_FF06A9DB_Auto3D2EC6E35429868932D862B8851CDD428.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/ThirdPerson/Maps/_GENERATED/ariji/Box_FF06A9DB_Auto3.uasset'
+[2022.10.05-22.47.20:065][480]LogFileHelpers: Auto-saving content packages took 0.107
+[2022.10.05-23.16.22:022][675]LogDerivedDataCache: C:/Users/ariji/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.277 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.05-23.40.07:605][963]LogViewport: Scene viewport resized to 1398x1272, mode Windowed.
+[2022.10.05-23.40.55:415][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.10.05-23.40.55:423][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/41/7JL0KSD0XLC8QZSWR2I5N6_Auto4
+[2022.10.05-23.40.55:423][227]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/7JL0KSD0XLC8QZSWR2I5N6_Auto4656C8E4F440726D9A6008AB39EA77652.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/41/7JL0KSD0XLC8QZSWR2I5N6_Auto4.uasset'
+[2022.10.05-23.40.55:427][227]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/AU/OWON1KMTM49F48YJY36Y7W_Auto4
+[2022.10.05-23.40.55:427][227]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/OWON1KMTM49F48YJY36Y7W_Auto4EA1610724B9DA42B25E810811889B94F.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/AU/OWON1KMTM49F48YJY36Y7W_Auto4.uasset'
+[2022.10.05-23.40.55:430][227]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap_2' took 0.042
+[2022.10.05-23.40.55:430][227]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2022.10.05-23.42.26:074][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/41/7JL0KSD0XLC8QZSWR2I5N6
+[2022.10.05-23.42.26:076][128]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/7JL0KSD0XLC8QZSWR2I5N656D6670B4615DE599D47E9B6DF014319.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/9/41/7JL0KSD0XLC8QZSWR2I5N6.uasset'
+[2022.10.05-23.42.26:082][128]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/AU/OWON1KMTM49F48YJY36Y7W
+[2022.10.05-23.42.26:084][128]LogSavePackage: Moving 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Saved/OWON1KMTM49F48YJY36Y7W1AFFE03B488C42CC20C034BC3CD93EE8.tmp' to 'C:/Users/ariji/Documents/GitHub/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap_2/8/AU/OWON1KMTM49F48YJY36Y7W.uasset'
+[2022.10.05-23.42.26:106][128]AssetCheck: New page: Asset Save: multiple assets
+[2022.10.05-23.42.26:107][128]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9103D01_1381869417
+[2022.10.05-23.42.26:107][128]LogContentValidation: Display: Validating StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap_2.ThirdPersonMap_2:PersistentLevel.StaticMeshActor_UAID_0433C272B3C9103D01_1368560416
