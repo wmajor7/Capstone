@@ -1,4 +1,6 @@
 /DerivedDataCache
 /Intermediate
 /Saved
-The_Kingdom_Below/Content/Characters/Main_Character/Mesh.uasset
+The_Kingdom_Below/Content/Kingdom/Player/Mesh.uasset
+*.log
+*.ini
