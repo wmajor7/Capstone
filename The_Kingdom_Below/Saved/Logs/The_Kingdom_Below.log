@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 12/09/22 00:57:18
+=======
+﻿Log file open, 12/09/22 10:02:57
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 ﻿Log file open, 12/09/22 10:02:57
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
@@ -11,7 +15,11 @@ LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogWindows: Started CrashReportClient (pid=33280)
+=======
+LogWindows: Started CrashReportClient (pid=13912)
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogWindows: Started CrashReportClient (pid=13912)
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
@@ -23,6 +31,7 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
 LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogCsvProfiler: Display: Metadata set : commandline="" "D:/Documents 2/Capstone/Capstone/The_Kingdom_Below/The_Kingdom_Below.uproject" -EpicPortal -epicusername=Green19Lantern -epicuserid=2a82a43cebcf4cedb8c87eae28902bf4 -epiclocale=en -epicsandboxid=ue""
 LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2251] "
@@ -59,6 +68,20 @@ LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform
 LogInit: Session CrashGUID >====================================================
          Session CrashGUID >   UECC-Windows-2DCDE0164170AA5D7169C6870DF91074
          Session CrashGUID >====================================================
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" C:/Users/JT/Desktop/Capstone/The_Kingdom_Below/The_Kingdom_Below.uproject -EpicPortal -epicusername=Starrite -epicuserid=639bd233005c44f79c6c4d46209ed2ac -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (21H2) [10.0.19044.2251] "
+LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="ee853d994f930c84a399e09a933ee9bf"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 23.158080
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-2DCDE0164170AA5D7169C6870DF91074
+         Session CrashGUID >====================================================
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
 LogConfig: Display: Loading IOS ini files took 0.09 seconds
 LogConfig: Display: Loading Android ini files took 0.12 seconds
@@ -69,6 +92,9 @@ LogConfig: Display: Loading Mac ini files took 0.13 seconds
 LogConfig: Display: Loading VulkanPC ini files took 0.05 seconds
 LogConfig: Display: Loading Unix ini files took 0.06 seconds
 LogConfig: Display: Loading Windows ini files took 0.05 seconds
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin FastBuildController
@@ -76,6 +102,7 @@ LogPluginManager: Mounting Engine plugin MeshPainting
 LogPluginManager: Mounting Engine plugin XGEController
 LogPluginManager: Mounting Engine plugin Paper2D
 LogPluginManager: Mounting Engine plugin AISupport
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
@@ -90,6 +117,11 @@ LogPluginManager: Mounting Engine plugin GameplayCameras
 LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
 LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
 LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+=======
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin ControlRig
 LogPluginManager: Mounting Engine plugin IKRig
 LogPluginManager: Mounting Engine plugin ControlRigSpline
@@ -97,11 +129,15 @@ LogPluginManager: Mounting Engine plugin GameplayCameras
 LogPluginManager: Mounting Engine plugin OodleNetwork
 LogPluginManager: Mounting Engine plugin CameraShakePreviewer
 LogPluginManager: Mounting Engine plugin AnimationSharing
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
 LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
 LogPluginManager: Mounting Engine plugin GitSourceControl
 LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin PixWinPlugin
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
@@ -126,6 +162,8 @@ LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin EditorDebugTools
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
 LogPluginManager: Mounting Engine plugin AssetManagerEditor
 LogPluginManager: Mounting Engine plugin DatasmithContent
@@ -155,11 +193,15 @@ LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
 LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
 LogPluginManager: Mounting Engine plugin FacialAnimation
 LogPluginManager: Mounting Engine plugin CharacterAI
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin GameplayTagsEditor
 LogPluginManager: Mounting Engine plugin GeometryMode
 LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
 LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
@@ -179,6 +221,8 @@ LogPluginManager: Mounting Engine plugin ChaosEditor
 LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
 LogPluginManager: Mounting Engine plugin CharacterAI
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
 LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
 LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
@@ -189,6 +233,9 @@ LogPluginManager: Mounting Engine plugin SpeedTreeImporter
 LogPluginManager: Mounting Engine plugin StylusInput
 LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
 LogPluginManager: Mounting Engine plugin Niagara
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin AlembicImporter
 LogPluginManager: Mounting Engine plugin FullBodyIK
@@ -197,10 +244,13 @@ LogPluginManager: Mounting Engine plugin GeometryFlow
 LogPluginManager: Mounting Engine plugin MeshLODToolset
 LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AndroidMedia
 LogPluginManager: Mounting Engine plugin AvfMedia
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin OpenImageDenoise
 LogPluginManager: Mounting Engine plugin PlatformCrypto
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
@@ -218,6 +268,7 @@ LogPluginManager: Mounting Engine plugin MediaPlayerEditor
 LogPluginManager: Mounting Engine plugin WebMMedia
 LogPluginManager: Mounting Engine plugin WmfMedia
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin PlanarCut
 LogPluginManager: Mounting Engine plugin PlatformCrypto
 LogPluginManager: Mounting Engine plugin ProxyLODPlugin
@@ -232,11 +283,16 @@ LogPluginManager: Mounting Engine plugin SequencerScripting
 LogPluginManager: Mounting Engine plugin TemplateSequence
 LogPluginManager: Mounting Engine plugin UdpMessaging
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin ActorSequence
 LogPluginManager: Mounting Engine plugin LevelSequenceEditor
 LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
 LogPluginManager: Mounting Engine plugin SequencerScripting
 LogPluginManager: Mounting Engine plugin TemplateSequence
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
@@ -245,8 +301,13 @@ LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
 LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+=======
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin AndroidFileServer
@@ -261,23 +322,30 @@ LogPluginManager: Mounting Engine plugin AudioCapture
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 LogPluginManager: Mounting Engine plugin CableComponent
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ChunkDownloader
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryProcessing
 LogPluginManager: Mounting Engine plugin GeometryCache
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ChunkDownloader
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
 LogPluginManager: Mounting Engine plugin GeometryProcessing
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+<<<<<<< HEAD
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin MeshModelingToolset
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
@@ -287,6 +355,8 @@ LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin ResonanceAudio
 LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
 LogPluginManager: Mounting Engine plugin MeshModelingToolset
 LogPluginManager: Mounting Engine plugin MobilePatchingUtils
@@ -294,6 +364,9 @@ LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin PropertyAccessEditor
 LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
 LogPluginManager: Mounting Engine plugin ResonanceAudio
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPluginManager: Mounting Engine plugin SignificanceManager
 LogPluginManager: Mounting Engine plugin SoundFields
@@ -302,8 +375,13 @@ LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+=======
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
@@ -319,10 +397,15 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Pape
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
@@ -332,11 +415,17 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
@@ -346,7 +435,11 @@ LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experim
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+=======
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
@@ -386,7 +479,11 @@ LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
 LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
 LogInit: Net CL: 19505902
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: OS: Windows 10 (22H2) [10.0.19045.2251] (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 3080
+=======
+LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogInit: OS: Windows 10 (21H2) [10.0.19044.2251] (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
@@ -395,8 +492,13 @@ LogInit: Compiled with Visual C++: 19.29.30138.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE5+Release-5.0
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Command Line:  -EpicPortal -epicusername=Green19Lantern -epicuserid=2a82a43cebcf4cedb8c87eae28902bf4 -epiclocale=en -epicsandboxid=ue
 LogInit: Base Directory: D:/Epic/UE_5.0/Engine/Binaries/Win64/
+=======
+LogInit: Command Line:  -EpicPortal -epicusername=Starrite -epicuserid=639bd233005c44f79c6c4d46209ed2ac -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 =======
 LogInit: Command Line:  -EpicPortal -epicusername=Starrite -epicuserid=639bd233005c44f79c6c4d46209ed2ac -epiclocale=en -epicsandboxid=ue
 LogInit: Base Directory: D:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
@@ -446,6 +548,7 @@ LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable crea
 LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
 LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
 LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2022.12.09-05.57.19:158][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2022.12.09-05.57.19:158][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
@@ -14578,6 +14681,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.09-08.14.29:817][883]LogExit: Exiting.
 [2022.12.09-08.14.29:855][883]Log file closed, 12/09/22 03:14:29
 =======
+=======
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
 [2022.12.09-15.03.07:989][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
 [2022.12.09-15.03.07:989][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
 [2022.12.09-15.03.07:989][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
@@ -16295,4 +16400,7 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.09-15.37.52:966][ 56]LogD3D12RHI: ~FD3D12DynamicRHI
 [2022.12.09-15.37.52:966][ 56]LogExit: Exiting.
 [2022.12.09-15.37.53:034][ 56]Log file closed, 12/09/22 10:37:53
+<<<<<<< HEAD
+>>>>>>> parent of 89d1402 (Greenhouse whitebox)
+=======
 >>>>>>> parent of 89d1402 (Greenhouse whitebox)
