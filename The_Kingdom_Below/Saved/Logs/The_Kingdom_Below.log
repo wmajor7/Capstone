@@ -20442,6 +20442,7 @@ Script Stack (0 frames):
 [2023.03.24-07.01.32:693][852]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 6.02% of total time (compiled   17 times, average 4.40 sec, max 12.27 sec, min 2.10 sec)
 [2023.03.24-07.01.32:693][852]LogShaderCompilers: Display: ================================================
 [2023.03.24-07.01.32:912][852]LogShaderCompilers: Display: Shaders left to compile 0
+<<<<<<< Updated upstream
 [2023.03.24-07.01.45:392][852]LogModuleManager: Shutting down and abandoning module SequencerWidgets (894)
 [2023.03.24-07.01.45:404][852]LogModuleManager: Shutting down and abandoning module PinnedCommandList (892)
 [2023.03.24-07.01.45:423][852]LogModuleManager: Shutting down and abandoning module SkeletonEditor (890)
@@ -21249,3 +21250,5 @@ Script Stack (0 frames):
 [2023.03.24-07.02.26:030][852]LogD3D12RHI: ~FD3D12DynamicRHI
 [2023.03.24-07.02.26:044][852]LogExit: Exiting.
 [2023.03.24-07.02.26:146][852]Log file closed, 03/24/23 03:02:26
+=======
+>>>>>>> Stashed changes
