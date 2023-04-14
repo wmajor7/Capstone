@@ -3799,3 +3799,237 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.04.14-00.33.18:605][177]LogViewport: Scene viewport resized to 755x283, mode Windowed.
 [2023.04.14-00.35.39:361][489]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-M7NHMTO
 [2023.04.14-00.36.00:815][751]LogDerivedDataCache: C:/Users/Parker/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.295 and deleted 0 file(s) with total size 0 MiB.
+[2023.04.14-00.37.07:692][623]LogSlate: Window 'Message' being destroyed
+[2023.04.14-00.37.07:696][623]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Kingdom/OurAssets/BlueGlow.BlueGlow
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.14-00.37.30:366][507]LogSlate: Window 'Message' being destroyed
+[2023.04.14-00.37.30:371][507]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Kingdom/OurAssets/BlueGlow.BlueGlow
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.14-00.37.32:272][507]LogSlate: Window 'Message' being destroyed
+[2023.04.14-00.37.32:278][507]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/OurAssets/BlueGlow_2.BlueGlow_2
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.14-00.37.36:465][507]LogMaterial: Display: Missing cached shadermap for Preview:BlueGlow_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 46527109A925FAD4E5221AD57C83B493B621F5CC), compiling. 
+[2023.04.14-00.37.36:501][507]LogMaterial: Display: Missing cached shadermap for BlueGlow_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1F709DDAB29A14CBD98F138AD087A1E01D3CCC64), compiling. 
+[2023.04.14-00.37.36:583][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: ================================================
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Total job queries 398, among them cache hits 218 (54.77%)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Tracking 121 distinct input hashes that result in 50 distinct outputs (41.32%)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: RAM used: 0.13 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Shaders Compiled: 121
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Jobs assigned 121, completed 121 (100.00%)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Average time worker was idle: 583.72 s
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Time job spent in pending queue: average 0.37 s, longest 3.80 s
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Job execution time: average 3.81 s, max 7.77 s
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Job life time (pending + execution): average 4.18 s, max 7.85
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.03 s
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Jobs were issued in 63 batches (only local compilation was used), average 1.92 jobs/batch
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Average processing rate: 3.56 jobs/sec
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Effective parallelization: 2.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    6 times, average 1.01 sec, max 1.25 sec, min 0.77 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    6 times, average 0.91 sec, max 1.07 sec, min 0.75 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled    6 times, average 0.91 sec, max 1.16 sec, min 0.74 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    7 times, average 0.89 sec, max 0.97 sec, min 0.76 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    6 times, average 0.88 sec, max 1.13 sec, min 0.72 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.34% of total time (compiled   10 times, average 0.85 sec, max 1.02 sec, min 0.74 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.88% of total time (compiled   10 times, average 0.81 sec, max 0.99 sec, min 0.62 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.85% of total time (compiled    7 times, average 0.89 sec, max 0.97 sec, min 0.76 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.69% of total time (compiled    6 times, average 1.01 sec, max 1.25 sec, min 0.77 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.04% of total time (compiled    6 times, average 0.91 sec, max 1.07 sec, min 0.75 sec)
+[2023.04.14-00.37.36:844][507]LogShaderCompilers: Display: ================================================
+[2023.04.14-00.37.36:894][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.04.14-00.37.39:004][507]LogSlate: Window 'Message' being destroyed
+[2023.04.14-00.37.39:022][507]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/OurAssets/BlueGlow_3.BlueGlow_3
+(Selecting 'No' will cause all changes to be lost!)
+[2023.04.14-00.37.39:691][507]LogMaterial: Display: Missing cached shadermap for Preview:BlueGlow_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 9752B17BCCCE0EF61EA7F363F9AFCF19CBDD43E5), compiling. 
+[2023.04.14-00.37.39:712][507]LogMaterial: Display: Missing cached shadermap for BlueGlow_3 in PCD3D_SM5, Default, SM5 (DDC key hash: AA9484A13D06ABAA44A7661A5A9DE43344C9B203), compiling. 
+[2023.04.14-00.37.39:772][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.14-00.37.39:984][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2023.04.14-00.37.40:040][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.04.14-00.38.13:323][507]LogSlate: Window 'Save Content' being destroyed
+[2023.04.14-00.38.13:950][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurAssets/BlueGlow_2" FILE="../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/OurAssets/BlueGlow_2.uasset" SILENT=true
+[2023.04.14-00.38.13:952][507]LogSavePackage: Moving output files for package: /Game/OurAssets/BlueGlow_2
+[2023.04.14-00.38.13:952][507]LogSavePackage: Moving '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Saved/BlueGlow_2EBF05F3741EB05C59CF2DE9C0D72D483.tmp' to '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/OurAssets/BlueGlow_2.uasset'
+[2023.04.14-00.38.13:996][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OurAssets/BlueGlow_3" FILE="../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/OurAssets/BlueGlow_3.uasset" SILENT=true
+[2023.04.14-00.38.13:998][507]LogSavePackage: Moving output files for package: /Game/OurAssets/BlueGlow_3
+[2023.04.14-00.38.13:998][507]LogSavePackage: Moving '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Saved/BlueGlow_39643F1F547A25358D282128A15D5B152.tmp' to '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/OurAssets/BlueGlow_3.uasset'
+[2023.04.14-00.38.14:342][507]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.04.14-00.38.14:343][507]LogSavePackage: Moving '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Saved/BP_ThirdPersonCharacter6673A12F453F57068773FF8E9155BF41.tmp' to '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.04.14-00.38.14:345][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Palace/2/75/7FX37SOZWLV2KAYS2PCKKB
+[2023.04.14-00.38.14:346][507]LogSavePackage: Moving '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Saved/7FX37SOZWLV2KAYS2PCKKB6FC911B7411F27EC799571A4FF8B3910.tmp' to '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/Palace/2/75/7FX37SOZWLV2KAYS2PCKKB.uasset'
+[2023.04.14-00.38.14:348][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Palace/7/77/29KQVSIPJCYXLKW1VSQTXQ
+[2023.04.14-00.38.14:348][507]LogSavePackage: Moving '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Saved/29KQVSIPJCYXLKW1VSQTXQC2A7D50A4FDDEFF2FB76E9B5CD43723F.tmp' to '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/Palace/7/77/29KQVSIPJCYXLKW1VSQTXQ.uasset'
+[2023.04.14-00.38.14:350][507]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/Palace/D/PT/NMNMOYHDSKVK2IQDZKCDLR
+[2023.04.14-00.38.14:350][507]LogSavePackage: Moving '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Saved/NMNMOYHDSKVK2IQDZKCDLRCAF7DBB945B0CA55949459A9E3EB8F93.tmp' to '../../../../../Documents 2/Capstone/Capstone/The_Kingdom_Below/Content/__ExternalActors__/ThirdPerson/Maps/Palace/D/PT/NMNMOYHDSKVK2IQDZKCDLR.uasset'
+[2023.04.14-00.38.14:438][507]LogStall: Shutdown...
+[2023.04.14-00.38.14:571][507]LogStall: Shutdown complete.
+[2023.04.14-00.38.15:665][507]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.15:665][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.18:240][507]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.14-00.38.18:240][507]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.18:240][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.18:721][507]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.14-00.38.18:721][507]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.18:721][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.19:181][507]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.19:181][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.19:290][507]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.04.14-00.38.19:290][507]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.19:290][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.19:731][507]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.19:731][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.19:779][507]LogSlate: Window 'BlueGlow_3' being destroyed
+[2023.04.14-00.38.19:803][507]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.19:803][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.14-00.38.20:166][507]LogSlate: Window 'The_Kingdom_Below - Unreal Editor' being destroyed
+[2023.04.14-00.38.21:860][507]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.14-00.38.21:860][507]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.04.14-00.38.21:860][507]LogContentValidation: Display: Validating Door_BP_C /Game/ThirdPerson/Maps/Palace.Palace:PersistentLevel.Door_BP_C_UAID_00D8617539BBCE7801_2125384156
+[2023.04.14-00.38.21:860][507]LogContentValidation: Display: Validating Door_BP_C /Game/ThirdPerson/Maps/Palace.Palace:PersistentLevel.Door_BP_C_UAID_00D8617539BBCE7801_2128479157
+[2023.04.14-00.38.21:860][507]LogContentValidation: Display: Validating Door_BP_C /Game/ThirdPerson/Maps/Palace.Palace:PersistentLevel.Door_BP_C_UAID_00D8617539BBCD7801_1455232979
+[2023.04.14-00.38.21:860][507]LogContentValidation: Display: Validating Material /Game/OurAssets/BlueGlow_2.BlueGlow_2
+[2023.04.14-00.38.21:861][507]LogContentValidation: Display: Validating Material /Game/OurAssets/BlueGlow_3.BlueGlow_3
+[2023.04.14-00.38.21:862][508]Cmd: QUIT_EDITOR
+[2023.04.14-00.38.21:892][508]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.14-00.38.22:170][508]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.14-00.38.22:215][508]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.04.14-00.38.22:259][508]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.04.14-00.38.24:315][508]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.14-00.38.24:315][508]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.14-00.38.24:315][508]LogAudio: Display: Audio Device unregistered from world 'Palace'.
+[2023.04.14-00.38.24:357][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.14-00.38.24:359][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.04.14-00.38.25:157][508]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.14-00.38.25:580][508]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.14-00.38.25:931][508]LogExit: Preparing to exit.
+[2023.04.14-00.38.28:172][508]LogUObjectHash: Compacting FUObjectHashTables data took  23.48ms
+[2023.04.14-00.38.28:189][508]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:205][508]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:813][508]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:833][508]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:833][508]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:833][508]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:833][508]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:844][508]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:845][508]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:845][508]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.28:845][508]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.04.14-00.38.35:673][508]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:673][508]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:673][508]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:673][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:674][508]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:675][508]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2023.04.14-00.38.35:676][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.35:676][508]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.36:205][508]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.14-00.38.39:516][508]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.14-00.38.41:178][508]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.04.14-00.38.41:295][508]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.04.14-00.38.41:840][508]LogExit: Editor shut down
+[2023.04.14-00.38.42:092][508]LogExit: Transaction tracking system shut down
